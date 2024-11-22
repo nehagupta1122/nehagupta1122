@@ -1,4 +1,4 @@
-|[logo](https://github.com/nehagupta1122/nehagupta1122/blob/main/Blue%20and%20White%20Modern%20Geometric%20Cyber%20Security%20LinkedIn%20Background%20Photo.png)
+![logo](https://github.com/nehagupta1122/nehagupta1122/blob/main/Blue%20and%20White%20Modern%20Geometric%20Cyber%20Security%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Neha Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
